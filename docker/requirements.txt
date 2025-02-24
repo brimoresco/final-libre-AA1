@@ -1,0 +1,5 @@
+scikit-learn==1.4.2
+joblib==1.2.0
+pandas==2.1.4
+numpy==1.26.4
+#docker build -t modelo-prediccion .

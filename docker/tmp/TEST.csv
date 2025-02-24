@@ -1,0 +1,2 @@
+Date,MinTemp,MaxTemp,Rainfall,Evaporation,Sunshine,WindGustSpeed,WindSpeed9am,WindSpeed3pm,Humidity9am,Humidity3pm,Pressure9am,Pressure3pm,Cloud9am,Cloud3pm,Temp9am,Temp3pm,RainfallTomorrow,WindGustDir_N,WindGustDir_S,WindGustDir_W,WindDir9am_N,WindDir9am_S,WindDir9am_W,WindDir3pm_N,WindDir3pm_S,WindDir3pm_W,RainToday_Yes
+3288,-232.903,900.147,-310.925,-95.111,449.565,-81.939,-1019.535,-104.111,-272.523,-638.166,1015,1015,4,5,333.622,334.122,0,1,0,0,1,0,0,1,0,0,0
